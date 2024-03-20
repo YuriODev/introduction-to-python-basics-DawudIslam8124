@@ -1,2 +1,3 @@
 # Exercise 4
-# Your solution comes here
+integer = int(input("Enter an integer: "))
+
