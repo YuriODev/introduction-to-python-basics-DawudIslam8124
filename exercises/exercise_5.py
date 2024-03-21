@@ -1,2 +1,4 @@
 # Exercise 5
-# Your solution comes here
+a = int(input("Enter integer one: "))
+b = int(input("Enter integer two: "))
+
